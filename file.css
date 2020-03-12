@@ -1,0 +1,23 @@
+body {
+    color:green;
+     background-color:maroon;
+}
+h1{
+  color:black;
+  background-color:goldenrod;
+  font-family:oblique;
+  font-variant:small-caps ;
+  font-size:280%
+}
+p{
+  color:orange;
+  font-family:monospace;font-size:150% ;
+}
+h2{
+  color:white;
+  background-color:greenyellow;
+  font-style:italic ;
+}
+.first em{
+  color:white;
+  background-color :green;
